@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TabCustom</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="menu_msg">首页</string>
+    <string name="menu_contact">新闻</string>
+    <string name="menu_find">视频</string>
+    <string name="menu_me">关注</string>
+</resources>
